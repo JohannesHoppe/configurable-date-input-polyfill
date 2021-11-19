@@ -11,7 +11,7 @@
     The last date-input polyfill you will ever need. A fancy and lightweight datepicker with a high number of configuration options for all needs. Supports any calendar format and contains a large amount of localizations.
 </p>
 
-Just include this simple script and IE, Firefox, and OS X Safari will support `<input type="date">`, without any dependencies, not even jQuery!
+Just include this simple script and IE and Firefox will support `<input type="date">`, without any dependencies, not even jQuery!
 
 Forked from [date-input-polyfill](https://github.com/jcgertig/date-input-polyfill). Continuing as a separate project.
 
@@ -110,7 +110,6 @@ include it anywhere in your HTML.
 ## Browser support
 #### Desktop
 * Chrome
-* Safari
 * Firefox
 * Opera
 * Edge
